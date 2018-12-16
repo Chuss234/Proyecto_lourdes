@@ -1,0 +1,8 @@
+#video-container{
+    height:75vh;
+    overflow:hidden;
+}
+video{
+    width: 100%;
+    overflow:hidden;
+}
